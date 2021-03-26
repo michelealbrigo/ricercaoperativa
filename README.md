@@ -1,0 +1,1 @@
+This is a readme. All exercises will be implemented in Python, Rust and R, wherever possible.
